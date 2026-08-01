@@ -19,3 +19,8 @@ include/
 Materials/
 .astro/*.local.yml
 .astro/*.local.yaml
+
+# Local runtime / editor
+*.pyc
+.ipynb_checkpoints/
+nohup.out
